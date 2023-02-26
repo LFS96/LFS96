@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi everyone! 
+My name is Fabian Harmsen, and I'm a 26-year-old PHP developer.   
 
-<!--
-**LFS96/LFS96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## On my Github page, you'll find a collection of
 
-Here are some ideas to get you started:
+- my learning projects in various technologies, 
+- university projects, 
+- and some quick and dirty code for one-time use. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My History:
+I completed my apprenticeship as 'Fachinformatiker Anwendungsentwickler' at the University of Siegen (2013-2017), where I had the opportunity to work on a range of exciting projects, such as the UIPM laser target homologation and the development of a stereolithography 3D printer for my IHK graduation project.
+
+Throughout my career, I've gained expertise in several programming languages, including C, C++, C# (beginner level), PHP, JavaScript, and SQL. I'm currently working as a PHP developer at Amefa GmbH Limburg (2017-now), where I specialize in developing and maintaining complex systems and solutions.
+
+Aside from my work, I'm pursuing a Bachelor's degree in Business Informatics at the University of Applied Sciences Mainz (2020 - Feb. 2024). In my free time, I enjoy astrophotography, which allows me to capture the beauty of the universe through my camera lens.
+
+
+
+If you're interested in collaborating with me or learning more about my work, don't hesitate to reach out!
